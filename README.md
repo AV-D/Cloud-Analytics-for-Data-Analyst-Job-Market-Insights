@@ -1,5 +1,6 @@
 # Cloud-Analytics-for-Data-Analyst-Job-Market-Insights
 
+![ETL Process](etl1.jpg)
 ## Overview
 The goal of this project was to perform cloud analytics and data warehouse implementation on a dataset of over 16,000 data analyst job postings in the US. The raw CSV data from Kaggle and JSON data from the SERP API was loaded into Google BigQuery for analysis. 
 
